@@ -20,4 +20,4 @@ It highlights spice levels, sweetness, and sourness through interactive charts a
 - screenshots/
 
 ### 📸 Preview
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](screenshots/Dashboard.png)
